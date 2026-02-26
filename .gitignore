@@ -1,0 +1,19 @@
+# Ignorar ISOs
+ISO/*.iso
+
+# Ignorar arquivos grandes
+*.exe
+*.zip
+*.msi
+
+# Ignorar arquivos do sistema
+.DS_Store
+Desktop.ini
+Thumbs.db
+System Volume Information/
+
+# Logs
+*.log
+
+# VSCode
+.vscode/

@@ -1,0 +1,13 @@
+{
+  "control": [
+    {
+      "VTOY_DEFAULT_SEARCH_ROOT": "/ISO"
+    }
+  ],
+  "auto_install": [
+    {
+      "image": "/ISO/Win10_22H2_BrazilianPortuguese_x64v1.iso",
+      "template": "/ventoy/autounattend_files/autounattend_win10.xml"
+    }
+  ]
+}
