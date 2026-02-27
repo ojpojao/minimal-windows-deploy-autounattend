@@ -88,7 +88,9 @@ Exemplo básico:
 
 {
   "control": [
-    { "VTOY_DEFAULT_MENU_MODE": "0" }
+    {
+      "VTOY_DEFAULT_SEARCH_ROOT": "/ISO"
+    }
   ],
   "auto_install": [
     {
