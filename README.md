@@ -68,7 +68,7 @@ sudo sh Ventoy2Disk.sh -i /dev/sdX
 ## 3️⃣ Clonar o Projeto
 
 ```bash
-git clone https://github.com/ojpojao/windows-autodeploy-kit.git
+git clone https://github.com/ojpojao/minimal-windows-deploy-autounattend.git
 ```
 
 Ou baixe como ZIP.
